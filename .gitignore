@@ -1,0 +1,11 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore file env directory
+env/
+
+# Ignore file .DS_Store yang muncul di macOS
+.DS_Store
+
+# Ignore file .vscode yang merupakan konfigurasi Visual Studio Code
+.vscode/
